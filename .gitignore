@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+models/*
+results/*
+/data/
+!/data/
+/data/*
+!/data/README.md
+!/data/.gitkeep
+dataset/raw/images/*
+!dataset/raw/images/.gitkeep
+dataset/processed/*

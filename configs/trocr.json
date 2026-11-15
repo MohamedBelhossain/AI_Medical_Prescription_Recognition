@@ -1,0 +1,9 @@
+{
+  "model": "microsoft/trocr-base-handwritten",
+  "epochs": 10,
+  "batch_size": 4,
+  "learning_rate": 0.00005,
+  "max_target_length": 64,
+  "seed": 42,
+  "device": "auto"
+}
